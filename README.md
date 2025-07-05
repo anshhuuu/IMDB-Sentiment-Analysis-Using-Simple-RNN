@@ -58,11 +58,10 @@ streamlit run app.py
 ```bash
 IMDB-Sentiment-Analysis-Using-Simple-RNN/
 │
-├── app.py                      
-├── model.py                    
-├── imdb_rnn_model.h5           
-├── tokenizer.pkl               
-├── utils.py                    
-├── requirements.txt
-└── README.md
+├── simple_rnn.ipynb         
+├── prediction.ipynb          
+├── main.py                  
+├── imdb_rnn_model.h5         
+├── requirements.txt          
+└── README.md                 
 
