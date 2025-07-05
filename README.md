@@ -45,9 +45,13 @@ cd IMDB-Sentiment-Analysis-Using-Simple-RNN
 pip install -r requirements.txt
 
 ## Usage
+
+```bash
 streamlit run app.py
 
 ## Project Structure
+
+```bash
 IMDB-Sentiment-Analysis-Using-Simple-RNN/
 │
 ├── app.py                      
