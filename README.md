@@ -44,10 +44,14 @@ git clone https://github.com/anshhuuu/IMDB-Sentiment-Analysis-Using-Simple-RNN.g
 cd IMDB-Sentiment-Analysis-Using-Simple-RNN
 pip install -r requirements.txt
 
+```
+
 ## Usage
 
 ```bash
 streamlit run app.py
+
+```
 
 ## Project Structure
 
